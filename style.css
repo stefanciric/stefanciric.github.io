@@ -66,14 +66,16 @@ button:hover{
 }
 
 #section-c div{
-  padding:20px;
+  padding:20px;	
 }
 
 #section-c .box-1, #section-c .box-3{
   background:#D3D3D3;
   color:#2F2FA2;
+  width:33%;
 }
 
 #section-c .box-2{
   background:#2F2FA2;
+  width:33%;
 }
