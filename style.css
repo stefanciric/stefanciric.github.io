@@ -43,11 +43,6 @@ button, input{
   margin-top:20px;
 }
 
-button:hover{
-  color:#D3D3D3;
-  background:2F2FA2;
-}
-
 #section-a{
   padding:20px;
   background:#D3D3D3;
