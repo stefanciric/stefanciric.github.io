@@ -7,7 +7,7 @@ body{
   margin:0;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size:17px;
-  color:#D3D3D3;
+  color:#FFFFFF;
   line-height:1.6;
 }
 
@@ -24,29 +24,30 @@ body{
   padding:0 20px;
 }
 
+
 #showcase h1{
   font-size:50px;
   line-height:1.2;
 }
 
 #showcase p{
-  font-size:20px;
+  font-size:12px;
 }
 
 button, input{
   font-size:18px;
   text-decoration:none;
-  color:#2F2FA2;
-  border:#D3D3D3 1px solid;
+  color:##FFFFFF;
+  1px solid;
   padding:10px 20px;
   border-radius:10px;
   margin-top:20px;
-  background:#D3D3D3;
+  background:#FFFFFF;
 }
 
 #section-a{
   padding:20px;
-  background:#D3D3D3;
+  background:#FFFFFF;
   color:#2F2FA2;
   text-align:center;
 }
@@ -66,7 +67,7 @@ button, input{
 }
 
 #section-c .box-1, #section-c .box-3{
-  background:#D3D3D3;
+  background:#FFFFFF;
   color:#2F2FA2;
   width:33%;
 }
@@ -74,4 +75,11 @@ button, input{
 #section-c .box-2{
   background:#2F2FA2;
   width:33%;
+}
+
+#section-d{
+  padding:20px;
+  background:#FFFFFF;
+  color:#2F2FA2;
+  text-align:center;
 }
