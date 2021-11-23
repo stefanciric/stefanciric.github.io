@@ -13,7 +13,7 @@ body{
 
 #showcase{
   background-image:url('background.jpg');
-  background-size:90%;
+  background-size:80%;
   background-position:center;
   height:100vh;
   display:flex;
