@@ -30,6 +30,9 @@ body{
   line-height:1.2;
 }
 
+h1,h2,h3{
+	color:#fd776b;
+}
 #showcase p{
   font-size:12px;
 }
@@ -47,8 +50,8 @@ button, input{
 
 #section-a{
   padding:20px;
-  background:#FFFFFF;
-  color:#000000;
+  background:#050a30;
+  color:#FFFFFF;
   text-align:center;
 }
 
@@ -61,8 +64,8 @@ button, input{
 }
 
 #section-c .box-1, #section-c .box-3{
-  background:#FFFFFF;
-  color:#000000;
+  background:#050a30;
+  color:#FFFFFF;
   width:33%;
 }
 #section-c ul{
@@ -70,13 +73,14 @@ button, input{
 }
 
 #section-c .box-2{
-  background:#e3b7ae;
+  background:#050a30;
+  color:#FFFFFF;
   width:33%;
 }
 
 #section-d{
   padding:20px;
-  background:#FFFFFF;
-  color:#000000;
+  background:#050a30;
+  color:#FFFFFF;
   text-align:center;
 }
